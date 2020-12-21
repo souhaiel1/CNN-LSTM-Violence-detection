@@ -10,4 +10,4 @@ Violence Detection using a CNN-LSTM model
 the model takes 30 frames as an input :
 the first 2 videos are obtained by using a rolling average and in the other 2 we only showcase the first frame the model takes every loop run.
 
-<img src="https://github.com/shouhaiel1/CNN-LSTM-Violence-detection/blob/main/violence-detction%20(1).gif" width="900" height="300" />
+<img src="https://github.com/shouhaiel1/CNN-LSTM-Violence-detection/blob/main/violence-detction%20(1).gif" width="600" height="350" />
