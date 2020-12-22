@@ -13,3 +13,8 @@ the first 2 videos are obtained by using a rolling average and in the other 2 we
   <img src="https://github.com/shouhaiel1/CNN-LSTM-Violence-detection/blob/main/violence-detction%20(1).gif" width="600" height="350" />
 
 ## Trained weights : https://drive.google.com/file/d/1phOcWnglLZxsly7gKBab8XJuKzFf5vdp/view?usp=sharing
+
+## Datasets : 
+- Movies Fight Detection Dataset :  https://academictorrents.com/details/70e0794e2292fc051a13f05ea6f5b6c16f3d3635
+- Hockey Fight Detection Dataset : https://academictorrents.com/details/38d9ed996a5a75a039b84cf8a137be794e7cee89
+- VIOLENT-FLOWS DATABASE  : https://www.openu.ac.il/home/hassner/data/violentflows/
