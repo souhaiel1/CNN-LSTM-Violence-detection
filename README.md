@@ -8,8 +8,10 @@ Violence Detection using a CNN-LSTM model
 # Use 
 - make sure you have all the necessary dependencies like Tensorflow 2, Keras, numpy, opencv, especially cuda tools for gpu support as the process is computationally heavy. 
 - Clone the project and download the trained weights and put them in the same directory (you can put them wherever you want but then you must add the path for the weights in the "violencemodel.py" file).
-- Open a terminal or command prompt if you are on windows and deploy using a command like this: 
- ``` python predict_video2.py --input test/violence_video.mp4 --output output/results.avi --size 128```
+- Open a terminal or command prompt if you are on windows and deploy using a command like : 
+ ``` 
+ python predict_video2.py --input input_path/violence_video.mp4 --output output_path/results.avi --size 128
+ ```
 - keep in mind that the input and output arguments are required. 
 # script at work : 
 the model takes 30 frames as an input :
