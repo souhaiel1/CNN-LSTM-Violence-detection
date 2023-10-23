@@ -1,5 +1,5 @@
 # CNN-LSTM-Violence-detection
-Violence Detection using a CNN-LSTM model
+Re-implementation of the model described in the paper : https://ieeexplore.ieee.org/document/8852616
 # Dependencies
 - Python ( I used 3.8.3)
 - opencv
